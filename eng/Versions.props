@@ -49,6 +49,14 @@
     <MicrosoftDotNetBuildTasksFeedVersion>5.0.0-beta.19515.1</MicrosoftDotNetBuildTasksFeedVersion>
     <MicrosoftDotNetSwaggerGeneratorMSBuildVersion>5.0.0-beta.19515.1</MicrosoftDotNetSwaggerGeneratorMSBuildVersion>
     <MicrosoftDotNetGitIssueManagerVersion>5.0.0-beta.19515.1</MicrosoftDotNetGitIssueManagerVersion>
+    <FooVersion>
+    </FooVersion>
+    <BarVersion>
+    </BarVersion>
+    <PizzaVersion>
+    </PizzaVersion>
+    <HamburgerVersion>
+    </HamburgerVersion>
   </PropertyGroup>
   <!--Package names-->
   <PropertyGroup>
